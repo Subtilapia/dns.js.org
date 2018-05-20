@@ -1128,6 +1128,7 @@ var cnames_active = {
   "styled-icons": "styled-icons.netlify.com",
   "styletron": "rtsao.github.io/styletron", // noCF? (don´t add this in a new PR)
   "stylis": "thysultan.github.io/stylis.js",
+  "subtilapia":"subtilapia.github.io",
   "sub": "subjs.github.io",
   "sudarshan": "sudarshanRaul.github.io",
   "sudoku": "andreynering.github.io/sudoku",
